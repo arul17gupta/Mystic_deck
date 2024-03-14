@@ -1,0 +1,6 @@
+framework module Pods_Mystic_Deck_Mystic_DeckUITests {
+  umbrella header "Pods-Mystic Deck-Mystic DeckUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

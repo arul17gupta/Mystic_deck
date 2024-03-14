@@ -1,0 +1,221 @@
+{
+    "Geography": {
+        "states and cities": {
+            "Cards": {
+                "1": {
+                    "name": "Maharashtra",
+                    "image": "maharashtra",
+                    "AREA": "30000",
+                    "POPULATION": "13.16",
+                    "MPI": "0.033",
+                    "POLLUTION": "137",
+                    "LITERACY RATE": "93.18",
+                    "GDP": "35.3"
+                },
+                "2": {
+                    "name": "TamilNadu",
+                    "image": "tamilnadu",
+                    "AREA": "130058",
+                    "POPULATION": "8.39",
+                    "MPI": "0.009",
+                    "POLLUTION": "11",
+                    "LITERACY RATE": "90.99",
+                    "GDP": "28.3"
+                },
+                "3": {
+                    "name": "Madhya Pradesh",
+                    "image": "madhyapradesh",
+                    "AREA": "180058",
+                    "POPULATION": "11.39",
+                    "MPI": "0.019",
+                    "POLLUTION": "123",
+                    "LITERACY RATE": "20.05",
+                    "GDP": "23.3"
+                },
+                "4": {
+                    "name": "Karnataka",
+                    "image": "maharashtra",
+                    "AREA": "308000",
+                    "POPULATION": "13.16",
+                    "MPI": "0.033",
+                    "POLLUTION": "137",
+                    "LITERACY RATE": "92.4",
+                    "GDP": "35.3"
+                },
+                "5": {
+                    "name": "Kerala",
+                    "image": "tamilnadu",
+                    "AREA": "130058",
+                    "POPULATION": "8.39",
+                    "MPI": "0.009",
+                    "POLLUTION": "11",
+                    "LITERACY RATE": "100.0",
+                    "GDP": "28.3"
+                },
+                "6": {
+                    "name": "Gujarat",
+                    "image": "madhyapradesh",
+                    "AREA": "180058",
+                    "POPULATION": "11.39",
+                    "MPI": "0.019",
+                    "POLLUTION": "123",
+                    "POLLUTION": "123",
+                    "LITERACY RATE": "90.01",
+                    "GDP": "23.3"
+                },
+                "7": {
+                    "name": "Andhra Pradesh",
+                    "image": "maharashtra",
+                    "AREA": "308000",
+                    "POPULATION": "13.1",
+                    "MPI": "0.033",
+                    "POLLUTION": "13",
+                    "LITERACY RATE": "62.34",
+                    "GDP": "35.3"
+                },
+                "8": {
+                    "name": "Telangana",
+                    "image": "tamilnadu",
+                    "AREA": "130058",
+                    "POPULATION": "8.39",
+                    "MPI": "0.009",
+                    "POLLUTION": "11",
+                    "LITERACY RATE": "40.09",
+                    "GDP": "28.3"
+                },
+                "9": {
+                    "name": "Rajasthan",
+                    "image": "madhyapradesh",
+                    "AREA": "180058",
+                    "POPULATION": "11.39",
+                    "MPI": "0.019",
+                    "POLLUTION": "123",
+                    "LITERACY RATE": "90.09",
+                    "GDP": "23.3"
+                },
+                "10": {
+                    "name": "Uttar Pradesh",
+                    "image": "maharashtra",
+                    "AREA": "308000",
+                    "POPULATION": "13.16",
+                    "MPI": "0.033",
+                    "POLLUTION": "137",
+                    "LITERACY RATE": "92.34",
+                    "GDP": "35.3"
+                },
+                "11": {
+                    "name": "Bihar",
+                    "image": "tamilnadu",
+                    "AREA": "130058",
+                    "POPULATION": "8.39",
+                    "MPI": "0.009",
+                    "POLLUTION": "11",
+                    "LITERACY RATE": "10.09",
+                    "GDP": "28.3"
+                },
+                "12": {
+                    "name": "West Bengal",
+                    "image": "madhyapradesh",
+                    "AREA": "180058",
+                    "POPULATION": "11.39",
+                    "MPI": "0.019",
+                    "POLLUTION": "123",
+                    "LITERACY RATE": "30.09",
+                    "GDP": "23.3"
+                },
+                "13": {
+                    "name": "Assam",
+                    "image": "maharashtra",
+                    "AREA": "308000",
+                    "POPULATION": "13.16",
+                    "MPI": "0.033",
+                    "POLLUTION": "137",
+                    "LITERACY RATE": "82.34",
+                    "GDP": "35.3"
+                },
+                "14": {
+                    "name": "Odisha",
+                    "image": "tamilnadu",
+                    "AREA": "130058",
+                    "POPULATION": "8.39",
+                    "MPI": "0.009",
+                    "POLLUTION": "11",
+                    "LITERACY RATE": "80.09",
+                    "GDP": "28.3"
+                },
+                "15": {
+                    "name": "Haryana",
+                    "image": "madhyapradesh",
+                    "AREA": "180058",
+                    "POPULATION": "11.39",
+                    "MPI": "0.019",
+                    "POLLUTION": "123",
+                    "LITERACY RATE": "82.09",
+                    "GDP": "23.3"
+                },
+                "16": {
+                    "name": "Punjab",
+                    "image": "maharashtra",
+                    "AREA": "308000",
+                    "POPULATION": "13.16",
+                    "MPI": "0.033",
+                    "POLLUTION": "137",
+                    "LITERACY RATE": "81.34",
+                    "GDP": "35.3"
+                },
+                "17": {
+                    "name": "Jharkhand",
+                    "image": "tamilnadu",
+                    "AREA": "130058",
+                    "POPULATION": "8.39",
+                    "MPI": "0.009",
+                    "POLLUTION": "11",
+                    "LITERACY RATE": "40.09",
+                    "GDP": "28.3"
+                },
+                "18": {
+                    "name": "Chhattisgarh",
+                    "image": "madhyapradesh",
+                    "AREA": "180058",
+                    "POPULATION": "11.39",
+                    "MPI": "0.019",
+                    "POLLUTION": "123",
+                    "LITERACY RATE": "82.09",
+                    "GDP": "23.3"
+                },
+                "19": {
+                    "name": "Uttarakhand",
+                    "image": "maharashtra",
+                    "AREA": "308000",
+                    "POPULATION": "13.16",
+                    "MPIhiuhuiu": "0.033",
+                    "POLLUTION": "137",
+                    "LITERACY RATE": "12.34",
+                    "GDP": "35.3"
+                },
+                "20": {
+                    "name": "Himachal Pradesh",
+                    "image": "tamilnadu",
+                    "AREA": "130058",
+                    "POPULATION": "8.39",
+                    "MPIjjjjjj": "0.009",
+                    "POLLUTION": "11",
+                    "LITERACY RATE": "30.09",
+                    "GDP": "28.3"
+                }
+            },
+            "Startcolor":"#BBB3AC",
+            "Endcolor":"#000000"
+        },
+        "agriculture": {},
+        "rivers": {},
+        "crime and safety": {}
+    },
+    "history": {
+        "agriculture": {},
+        "constitution": {},
+        "medieval": {},
+        "heritage": {}
+    }
+}
+
